@@ -1,0 +1,2727 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/skqjb/list/skqjb_00000041.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f75062dc-f16b-46dc-abf0-40f2a79a5991",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f75062dc-f16b-46dc-abf0-40f2a79a5991' data-letter-spacing='0.052559192200557096'>EMBLEMATVM</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=409,345,718,109",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f75062dc-f16b-46dc-abf0-40f2a79a5991: { height: 109px; width: 718px; font-size: 68.125px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f507bacd-c921-4182-b2ad-8a0e116cf513",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f507bacd-c921-4182-b2ad-8a0e116cf513' data-letter-spacing='0.05853783231083844'>LIBELLVS</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1222,364,489,104",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f507bacd-c921-4182-b2ad-8a0e116cf513: { height: 104px; width: 489px; font-size: 65.0px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "cd018c09-a098-4d67-b8d4-60064b89a3a0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='cd018c09-a098-4d67-b8d4-60064b89a3a0' data-letter-spacing='-0.2109375'>.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1710,377,24,93",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-cd018c09-a098-4d67-b8d4-60064b89a3a0: { height: 93px; width: 24px; font-size: 58.125px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0078793a-af45-4b4b-8d24-2e988d81009e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0078793a-af45-4b4b-8d24-2e988d81009e' data-letter-spacing='0.13795731707317074'>37</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1825,379,82,95",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0078793a-af45-4b4b-8d24-2e988d81009e: { height: 95px; width: 82px; font-size: 59.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "478a90cd-49bb-44a3-ad1b-c652808ecffb",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='478a90cd-49bb-44a3-ad1b-c652808ecffb' data-letter-spacing='0.0011856368563685636'>Inuiolabiles</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=634,550,369,97",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-478a90cd-49bb-44a3-ad1b-c652808ecffb: { height: 97px; width: 369px; font-size: 60.625px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3d185648-bca2-433f-9ea9-d71e7e8e8dc1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3d185648-bca2-433f-9ea9-d71e7e8e8dc1' data-letter-spacing='-0.026785714285714284'>telo</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1028,557,105,93",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3d185648-bca2-433f-9ea9-d71e7e8e8dc1: { height: 93px; width: 105px; font-size: 58.125px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "682a18d2-c33f-4c7d-80aa-175693845413",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='682a18d2-c33f-4c7d-80aa-175693845413' data-letter-spacing='0.006944444444444445'>Cupidinis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1160,560,285,95",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-682a18d2-c33f-4c7d-80aa-175693845413: { height: 95px; width: 285px; font-size: 59.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "05377385-5503-44c4-b659-c0462558f7f8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='05377385-5503-44c4-b659-c0462558f7f8' data-letter-spacing='-0.18489583333333334'>.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1463,565,24,91",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-05377385-5503-44c4-b659-c0462558f7f8: { height: 91px; width: 24px; font-size: 56.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0c506022-8329-4eef-afa3-3e604b068c36",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0c506022-8329-4eef-afa3-3e604b068c36' data-letter-spacing='0.34558823529411764'>22</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1080,1366,85,42",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0c506022-8329-4eef-afa3-3e604b068c36: { height: 42px; width: 85px; font-size: 26.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6402ef87-cf8c-40ee-831f-89df9f15fa30",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6402ef87-cf8c-40ee-831f-89df9f15fa30' data-letter-spacing='-0.29464285714285715'>9</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=767,1471,7,29",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6402ef87-cf8c-40ee-831f-89df9f15fa30: { height: 29px; width: 7px; font-size: 18.125px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e6c26755-10e5-4b46-acab-b330de0d9eab",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e6c26755-10e5-4b46-acab-b330de0d9eab' data-letter-spacing='0.13213383838383838'>\u03a4\u039c\u0397\u039b\u0397</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=-18,2099,198,43",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e6c26755-10e5-4b46-acab-b330de0d9eab: { height: 43px; width: 198px; font-size: 26.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c5350cb6-ee8b-4559-8178-42270991f55f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c5350cb6-ee8b-4559-8178-42270991f55f' data-letter-spacing='0.28879310344827586'>)</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=159,2075,29,66",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c5350cb6-ee8b-4559-8178-42270991f55f: { height: 66px; width: 29px; font-size: 41.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "91ab95e4-7bde-4b52-a01c-ef1b997c4bf3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='91ab95e4-7bde-4b52-a01c-ef1b997c4bf3' data-letter-spacing='-0.1329225352112676'>muis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=-20,2456,71,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-91ab95e4-7bde-4b52-a01c-ef1b997c4bf3: { height: 87px; width: 71px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a0402901-9441-4491-ae6f-2ae92d3145c9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a0402901-9441-4491-ae6f-2ae92d3145c9' data-letter-spacing='-0.2248046875'>alite</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=55,2456,64,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a0402901-9441-4491-ae6f-2ae92d3145c9: { height: 87px; width: 64px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f20cb8a4-7539-4375-a17c-f8ea73ac011f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f20cb8a4-7539-4375-a17c-f8ea73ac011f' data-letter-spacing='-0.14981617647058823'>pics</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=128,2456,68,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f20cb8a4-7539-4375-a17c-f8ea73ac011f: { height: 87px; width: 68px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4c9d7b8f-b34f-4dcb-b1fd-89d97a66683a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4c9d7b8f-b34f-4dcb-b1fd-89d97a66683a' data-letter-spacing='-0.10738482384823848'>aftrawehi</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=22,2560,123,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4c9d7b8f-b34f-4dcb-b1fd-89d97a66683a: { height: 86px; width: 123px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3ca9825a-01af-4f46-aa03-a595f3b819e9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3ca9825a-01af-4f46-aa03-a595f3b819e9' data-letter-spacing='0.216796875'>Ne</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=335,2200,96,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3ca9825a-01af-4f46-aa03-a595f3b819e9: { height: 87px; width: 96px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b9fb9c91-4c3c-481a-ac1b-93570f423713",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b9fb9c91-4c3c-481a-ac1b-93570f423713' data-letter-spacing='0.03422256097560975'>dirus</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=448,2200,164,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b9fb9c91-4c3c-481a-ac1b-93570f423713: { height: 87px; width: 164px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "74253b94-7796-471e-b8ba-1aeba36a9f2e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='74253b94-7796-471e-b8ba-1aeba36a9f2e' data-letter-spacing='-0.07845744680851063'>te</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=637,2200,47,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-74253b94-7796-471e-b8ba-1aeba36a9f2e: { height: 87px; width: 47px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "70a815c7-4b95-46fa-8f48-ccfb6fd27a68",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='70a815c7-4b95-46fa-8f48-ccfb6fd27a68' data-letter-spacing='0.035957532051282055'>uincat</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=712,2200,208,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-70a815c7-4b95-46fa-8f48-ccfb6fd27a68: { height: 87px; width: 208px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "805242ec-3b1e-4b24-bc8c-7e40a154a3ae",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='805242ec-3b1e-4b24-bc8c-7e40a154a3ae' data-letter-spacing='0.07113486842105263'>amor</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=932,2200,152,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-805242ec-3b1e-4b24-bc8c-7e40a154a3ae: { height: 87px; width: 152px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4dcabd11-73e5-43af-ac33-b2c9e9c1a0ca",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4dcabd11-73e5-43af-ac33-b2c9e9c1a0ca' data-letter-spacing='-0.0875'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1101,2200,25,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4dcabd11-73e5-43af-ac33-b2c9e9c1a0ca: { height: 87px; width: 25px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "56af9050-af33-49c2-b3bc-771d4324fe4e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='56af9050-af33-49c2-b3bc-771d4324fe4e' data-letter-spacing='0.058712121212121215'>neu</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1126,2200,99,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-56af9050-af33-49c2-b3bc-771d4324fe4e: { height: 87px; width: 99px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c0cc50f8-f30c-47e8-8f1a-e5401b4e0448",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c0cc50f8-f30c-47e8-8f1a-e5401b4e0448' data-letter-spacing='0.019277597402597404'>foemina</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1269,2200,220,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c0cc50f8-f30c-47e8-8f1a-e5401b4e0448: { height: 87px; width: 220px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "99b5e386-d19d-4102-b1b0-2cbaef2bf7e9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='99b5e386-d19d-4102-b1b0-2cbaef2bf7e9' data-letter-spacing='0.035957532051282055'>mentem</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1515,2200,208,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-99b5e386-d19d-4102-b1b0-2cbaef2bf7e9: { height: 87px; width: 208px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "734478aa-aa73-466d-92d7-371908752c08",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='734478aa-aa73-466d-92d7-371908752c08' data-letter-spacing='0.0026140684410646386'>Diripiat</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=435,2288,263,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-734478aa-aa73-466d-92d7-371908752c08: { height: 103px; width: 263px; font-size: 64.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "aff44f4b-ce8c-4009-803e-e980a3327937",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='aff44f4b-ce8c-4009-803e-e980a3327937' data-letter-spacing='0.00985094451003542'>magicis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=716,2288,242,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-aff44f4b-ce8c-4009-803e-e980a3327937: { height: 103px; width: 242px; font-size: 64.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0d6be927-c65a-45ca-b36b-aa3f130ac654",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0d6be927-c65a-45ca-b36b-aa3f130ac654' data-letter-spacing='-0.004117742987606001'>artibus</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=984,2288,219,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0d6be927-c65a-45ca-b36b-aa3f130ac654: { height: 103px; width: 219px; font-size: 64.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e9c71c37-17a9-41a5-bf98-8c870f8f1b1b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e9c71c37-17a9-41a5-bf98-8c870f8f1b1b' data-letter-spacing='-0.04261363636363636'>ulla</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1209,2288,110,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e9c71c37-17a9-41a5-bf98-8c870f8f1b1b: { height: 103px; width: 110px; font-size: 64.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "aa1e1aee-9f10-4226-8a74-0d6bef683132",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='aa1e1aee-9f10-4226-8a74-0d6bef683132' data-letter-spacing='-0.03234649122807018'>tuam</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1354,2288,114,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-aa1e1aee-9f10-4226-8a74-0d6bef683132: { height: 103px; width: 114px; font-size: 64.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3fab9059-42d5-4ecd-89db-21a550888d98",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3fab9059-42d5-4ecd-89db-21a550888d98' data-letter-spacing='-0.07291666666666667'>:</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1503,2288,30,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3fab9059-42d5-4ecd-89db-21a550888d98: { height: 103px; width: 30px; font-size: 64.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fada6069-2d68-43fb-a714-ecd264579527",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fada6069-2d68-43fb-a714-ecd264579527' data-letter-spacing='0.02546296296296296'>Bacchica</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=325,2400,270,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fada6069-2d68-43fb-a714-ecd264579527: { height: 86px; width: 270px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c65ef8d0-2606-4843-bb19-a87ac9a3c691",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c65ef8d0-2606-4843-bb19-a87ac9a3c691' data-letter-spacing='0.0202991452991453'>quis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=632,2400,117,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c65ef8d0-2606-4843-bb19-a87ac9a3c691: { height: 86px; width: 117px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "32dbf4d4-57b0-4092-b0b5-7ea24cf70465",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='32dbf4d4-57b0-4092-b0b5-7ea24cf70465' data-letter-spacing='0.03024534686971235'>pr\u00e6fto</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=772,2400,197,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-32dbf4d4-57b0-4092-b0b5-7ea24cf70465: { height: 86px; width: 197px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e6b2dd2d-5d84-40a0-bb47-2987c4176568",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e6b2dd2d-5d84-40a0-bb47-2987c4176568' data-letter-spacing='-0.01608910891089109'>tibi</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=991,2400,101,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e6b2dd2d-5d84-40a0-bb47-2987c4176568: { height: 86px; width: 101px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6379fa62-5343-423e-9aea-48c01cd78be6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6379fa62-5343-423e-9aea-48c01cd78be6' data-letter-spacing='0.015809692671394798'>motacilla</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1087,2400,282,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6379fa62-5343-423e-9aea-48c01cd78be6: { height: 86px; width: 282px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "28651993-9df6-44fe-9258-757d3e9e85cf",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='28651993-9df6-44fe-9258-757d3e9e85cf' data-letter-spacing='0.026515151515151516'>paretur</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1406,2400,231,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-28651993-9df6-44fe-9258-757d3e9e85cf: { height: 86px; width: 231px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "983909a9-0c16-4ef5-ad0c-f506e663f58e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='983909a9-0c16-4ef5-ad0c-f506e663f58e' data-letter-spacing='-0.075'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1654,2400,25,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-983909a9-0c16-4ef5-ad0c-f506e663f58e: { height: 86px; width: 25px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e6edc9b1-a86e-4006-b5a0-2c9e31ddb91d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e6edc9b1-a86e-4006-b5a0-2c9e31ddb91d' data-letter-spacing='0.05040322580645161'>Quam</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=460,2489,155,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e6edc9b1-a86e-4006-b5a0-2c9e31ddb91d: { height: 99px; width: 155px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2347c4fb-b2ae-4776-be33-2a775b85b09d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2347c4fb-b2ae-4776-be33-2a775b85b09d' data-letter-spacing='0.0038024850042844903'>quadriradiam</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=671,2489,389,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2347c4fb-b2ae-4776-be33-2a775b85b09d: { height: 99px; width: 389px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9b91a0bd-4fa4-4832-847a-736d5d1f9d49",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9b91a0bd-4fa4-4832-847a-736d5d1f9d49' data-letter-spacing='-0.0217040273556231'>circuli</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1120,2489,188,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9b91a0bd-4fa4-4832-847a-736d5d1f9d49: { height: 99px; width: 188px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d1d1a4df-54a5-4a1e-be56-5ec841cd7469",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d1d1a4df-54a5-4a1e-be56-5ec841cd7469' data-letter-spacing='-0.33614864864864863'>in</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1342,2489,37,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d1d1a4df-54a5-4a1e-be56-5ec841cd7469: { height: 99px; width: 37px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8425a6eb-af86-48d7-a48d-14e70a065dad",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8425a6eb-af86-48d7-a48d-14e70a065dad' data-letter-spacing='0.03515625'>orbe</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1415,2489,144,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8425a6eb-af86-48d7-a48d-14e70a065dad: { height: 99px; width: 144px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7d22a99a-133d-4fb4-86db-4b50f2598188",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7d22a99a-133d-4fb4-86db-4b50f2598188' data-letter-spacing='-0.017869718309859155'>loces</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1584,2489,142,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7d22a99a-133d-4fb4-86db-4b50f2598188: { height: 99px; width: 142px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5f83e6d9-d7c9-454f-be2a-e6d636364220",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5f83e6d9-d7c9-454f-be2a-e6d636364220' data-letter-spacing='-0.0668103448275862'>:</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1740,2489,29,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5f83e6d9-d7c9-454f-be2a-e6d636364220: { height: 99px; width: 29px; font-size: 61.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f03037f7-004c-4379-aeb2-94c25c61a5c4",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f03037f7-004c-4379-aeb2-94c25c61a5c4' data-letter-spacing='0.1165994623655914'>Ore</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=334,2600,124,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f03037f7-004c-4379-aeb2-94c25c61a5c4: { height: 86px; width: 124px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "33295e62-7aa7-4df6-845d-caf8c7d33668",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='33295e62-7aa7-4df6-845d-caf8c7d33668' data-letter-spacing='0.026692708333333332'>crucem</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=473,2600,192,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-33295e62-7aa7-4df6-845d-caf8c7d33668: { height: 86px; width: 192px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2fc08c7a-560a-4c77-aa54-5bd52b9f344e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2fc08c7a-560a-4c77-aa54-5bd52b9f344e' data-letter-spacing='-0.075'>o</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=730,2600,25,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2fc08c7a-560a-4c77-aa54-5bd52b9f344e: { height: 86px; width: 25px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "26490321-aba1-4969-b89b-a6dd3483a339",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='26490321-aba1-4969-b89b-a6dd3483a339' data-letter-spacing='0.04191176470588235'>cauda</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=825,2600,170,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-26490321-aba1-4969-b89b-a6dd3483a339: { height: 86px; width: 170px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1fa17353-e58a-4a81-8ff5-249e965de9e0",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1fa17353-e58a-4a81-8ff5-249e965de9e0' data-letter-spacing='-0.075'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1012,2600,25,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1fa17353-e58a-4a81-8ff5-249e965de9e0: { height: 86px; width: 25px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "eedf4d38-678f-43ff-81d8-fe682230e4dc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='eedf4d38-678f-43ff-81d8-fe682230e4dc' data-letter-spacing='0.01727303070761015'>geminis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1146,2600,214,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-eedf4d38-678f-43ff-81d8-fe682230e4dc: { height: 86px; width: 214px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "704c0656-0611-475a-98f3-56f2667a3f3f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='704c0656-0611-475a-98f3-56f2667a3f3f' data-letter-spacing='0.080078125'>ut</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1397,2600,64,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-704c0656-0611-475a-98f3-56f2667a3f3f: { height: 86px; width: 64px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0fc6ac03-c995-4906-8ac1-d8d3a03fa2ed",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0fc6ac03-c995-4906-8ac1-d8d3a03fa2ed' data-letter-spacing='0.018118031526336023'>complicet</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1489,2600,289,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0fc6ac03-c995-4906-8ac1-d8d3a03fa2ed: { height: 86px; width: 289px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8317323a-5023-4695-bfde-034dcb944a70",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8317323a-5023-4695-bfde-034dcb944a70' data-letter-spacing='-0.05890804597701149'>alis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1797,2600,87,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8317323a-5023-4695-bfde-034dcb944a70: { height: 86px; width: 87px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5b9f32dc-7eaa-4686-8750-2e11485bde44",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5b9f32dc-7eaa-4686-8750-2e11485bde44' data-letter-spacing='-0.075'>,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1909,2600,25,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5b9f32dc-7eaa-4686-8750-2e11485bde44: { height: 86px; width: 25px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f1d8d30a-27b4-46b2-95e1-19ca47df306c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f1d8d30a-27b4-46b2-95e1-19ca47df306c' data-letter-spacing='0.034482758620689655'>Tale</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=464,2689,145,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f1d8d30a-27b4-46b2-95e1-19ca47df306c: { height: 100px; width: 145px; font-size: 62.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "888378f7-e954-41fb-84d2-6a93a42b4821",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='888378f7-e954-41fb-84d2-6a93a42b4821' data-letter-spacing='0.013790035587188613'>anuletum</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=631,2689,281,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-888378f7-e954-41fb-84d2-6a93a42b4821: { height: 100px; width: 281px; font-size: 62.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5f0dc7d0-0384-4da5-8c19-f3505cff8615",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5f0dc7d0-0384-4da5-8c19-f3505cff8615' data-letter-spacing='0.007958801498127341'>carminis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=968,2689,267,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5f0dc7d0-0384-4da5-8c19-f3505cff8615: { height: 100px; width: 267px; font-size: 62.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "135b5972-9f18-40fb-b72c-f75ddd392403",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='135b5972-9f18-40fb-b72c-f75ddd392403' data-letter-spacing='0.02244318181818182'>omnis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1251,2689,176,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-135b5972-9f18-40fb-b72c-f75ddd392403: { height: 100px; width: 176px; font-size: 62.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "cbbf2299-f671-4347-af12-6f253c5fc545",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='cbbf2299-f671-4347-af12-6f253c5fc545' data-letter-spacing='-0.0594059405940594'>erit</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1443,2689,101,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-cbbf2299-f671-4347-af12-6f253c5fc545: { height: 100px; width: 101px; font-size: 62.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "75a275ea-17cd-4d12-aa5f-e8950747e17d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='75a275ea-17cd-4d12-aa5f-e8950747e17d' data-letter-spacing='-0.07758620689655173'>.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1552,2689,29,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-75a275ea-17cd-4d12-aa5f-e8950747e17d: { height: 100px; width: 29px; font-size: 62.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "237f16e3-c9a4-4d1c-bf1e-732e3c8266f1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='237f16e3-c9a4-4d1c-bf1e-732e3c8266f1' data-letter-spacing='0.011578604044357468'>Dicitur</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=344,2790,219,92",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-237f16e3-c9a4-4d1c-bf1e-732e3c8266f1: { height: 92px; width: 219px; font-size: 57.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "44d1db07-64ee-4238-beac-4976fe180465",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='44d1db07-64ee-4238-beac-4976fe180465' data-letter-spacing='0.08818247126436782'>hoc</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=577,2792,116,91",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-44d1db07-64ee-4238-beac-4976fe180465: { height: 91px; width: 116px; font-size: 56.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d1cde2e8-bd6f-409f-ab71-61c2136c8476",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d1cde2e8-bd6f-409f-ab71-61c2136c8476' data-letter-spacing='0.017045454545454544'>Veneris</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=716,2793,231,93",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d1cde2e8-bd6f-409f-ab71-61c2136c8476: { height: 93px; width: 231px; font-size: 58.125px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f3de4f56-b920-42a0-8170-576bf46833cb",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f3de4f56-b920-42a0-8170-576bf46833cb' data-letter-spacing='0.019182389937106917'>figno</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=966,2795,159,92",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f3de4f56-b920-42a0-8170-576bf46833cb: { height: 92px; width: 159px; font-size: 57.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8efb9471-285b-41f1-913c-ebe546cd759f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8efb9471-285b-41f1-913c-ebe546cd759f' data-letter-spacing='0.025810580204778156'>Pefagaus</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1144,2797,293,93",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8efb9471-285b-41f1-913c-ebe546cd759f: { height: 93px; width: 293px; font-size: 58.125px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "20bf31b3-c91f-4966-99e7-4ba01400e4ec",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='20bf31b3-c91f-4966-99e7-4ba01400e4ec' data-letter-spacing='0.014516129032258065'>Ia\u017fon</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1459,2800,155,92",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-20bf31b3-c91f-4966-99e7-4ba01400e4ec: { height: 92px; width: 155px; font-size: 57.5px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8c3834b4-cb0b-4142-9131-904bd66e4478",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8c3834b4-cb0b-4142-9131-904bd66e4478' data-letter-spacing='0.0013440860215053765'>Pha\u017fiacis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=456,2894,279,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8c3834b4-cb0b-4142-9131-904bd66e4478: { height: 98px; width: 279px; font-size: 61.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "516a13b4-1a1d-4283-80e7-0af96df1a63d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='516a13b4-1a1d-4283-80e7-0af96df1a63d' data-letter-spacing='0.029676258992805755'>ledi</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=750,2894,139,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-516a13b4-1a1d-4283-80e7-0af96df1a63d: { height: 98px; width: 139px; font-size: 61.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "99838cdb-19c1-4a95-8f0d-0902acc0f610",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='99838cdb-19c1-4a95-8f0d-0902acc0f610' data-letter-spacing='0.023989898989898988'>non</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=906,2894,99,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-99838cdb-19c1-4a95-8f0d-0902acc0f610: { height: 98px; width: 99px; font-size: 61.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2f29ac26-0dd1-49c4-93fd-f9ced226488a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2f29ac26-0dd1-49c4-93fd-f9ced226488a' data-letter-spacing='0.002008032128514056'>potuiffe</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1056,2894,249,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2f29ac26-0dd1-49c4-93fd-f9ced226488a: { height: 98px; width: 249px; font-size: 61.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "430db989-0cd0-43fc-8127-1b3bafa41fac",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='430db989-0cd0-43fc-8127-1b3bafa41fac' data-letter-spacing='-0.026851851851851852'>dolis</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1336,2894,135,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-430db989-0cd0-43fc-8127-1b3bafa41fac: { height: 98px; width: 135px; font-size: 61.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "78141041-25d2-47c8-862e-fd6d63aa273f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='78141041-25d2-47c8-862e-fd6d63aa273f' data-letter-spacing='-0.09375'>.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1479,2894,28,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-78141041-25d2-47c8-862e-fd6d63aa273f: { height: 98px; width: 28px; font-size: 61.25px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a0da4a69-ca94-471d-a6ec-9dedb28c73cc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a0da4a69-ca94-471d-a6ec-9dedb28c73cc' data-letter-spacing='0.20386904761904762'>cut</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1228,3000,210,87",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a0da4a69-ca94-471d-a6ec-9dedb28c73cc: { height: 87px; width: 210px; font-size: 54.375px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b42b3501-51c4-4ab7-a82b-8053d2be4211",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b42b3501-51c4-4ab7-a82b-8053d2be4211' data-letter-spacing='-0.09162414965986394'>credat</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=-8,2674,98,81",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b42b3501-51c4-4ab7-a82b-8053d2be4211: { height: 81px; width: 98px; font-size: 50.625px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c6bd722c-bd18-42c5-b3dd-f2022067ea7f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c6bd722c-bd18-42c5-b3dd-f2022067ea7f' data-letter-spacing='-0.09474431818181818'>amore</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=84,2663,88,83",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c6bd722c-bd18-42c5-b3dd-f2022067ea7f: { height: 83px; width: 88px; font-size: 51.875px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d960a1b4-dc17-4f30-9747-a50773a3fda8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d960a1b4-dc17-4f30-9747-a50773a3fda8' data-letter-spacing='-0.0921195652173913'>wurde</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=-8,2785,92,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d960a1b4-dc17-4f30-9747-a50773a3fda8: { height: 86px; width: 92px; font-size: 53.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "885d6d9f-1cde-419d-b65e-dbef42765647",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='885d6d9f-1cde-419d-b65e-dbef42765647' data-letter-spacing='-0.13917682926829267'>fenex</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=74,2767,82,89",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-885d6d9f-1cde-419d-b65e-dbef42765647: { height: 89px; width: 82px; font-size: 55.625px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "842e8c7f-c029-4ce8-a91d-3d393f657a60",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='842e8c7f-c029-4ce8-a91d-3d393f657a60' data-letter-spacing='-0.12280219780219781'>delle</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=-9,2984,91,94",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-842e8c7f-c029-4ce8-a91d-3d393f657a60: { height: 94px; width: 91px; font-size: 58.75px; }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9d87117c-87e7-4746-b36f-faa27a10f0ef",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9d87117c-87e7-4746-b36f-faa27a10f0ef' data-letter-spacing='-0.22916666666666666'>lom</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/skqjb/canvas/skqjb_00000041.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/skqjb/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=79,2972,55,99",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9d87117c-87e7-4746-b36f-faa27a10f0ef: { height: 99px; width: 55px; font-size: 61.875px; }"
+            }
+        }
+    ]
+}
